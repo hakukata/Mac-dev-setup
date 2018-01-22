@@ -1,6 +1,8 @@
 Mac 开发配置手册
 ====================
 
+> 本开源书 forked from [Mac 开发配置手册](https://github.com/Aaaaaashu/Mac-dev-setup)，作者为 [Aaaaaashu](https://github.com/Aaaaaashu)，欢迎大家 star 原作者的 [repo](https://github.com/Aaaaaashu/Mac-dev-setup)，以便获得最新更新，谢谢！
+
 手册内容为「**如何让一部全新的 MacBook 快速完成开发环境配置**」，主要面向 Web 开发者。其中的指导，在 Mavericks 和 Yosemite 上有效，其他版本系统并未尝试。
 
 
